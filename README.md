@@ -1,2 +1,1 @@
-# python-record
-python rec
+# PYTHON-LAB-RECORD
